@@ -76,12 +76,17 @@ button {
 .header-nav-link {
   color: var(--secondary-text-color);
   font-weight: 500;
+  letter-spacing: 0.02em;
 }
 
 .header-nav-link:hover,
 .header-nav-link:focus,
 .header-nav-link:active {
   color: var(--active-color);
+}
+
+.header-contacts-link {
+  letter-spacing: 0.02em;
 }
 
 .header-contacts-link:hover,
