@@ -17,7 +17,7 @@ body {
   color: var(--main-text-color);
   text-align: center;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+
   text-transform: capitalize;
   background-color: var(--main-bg-color);
 }
@@ -41,6 +41,7 @@ button {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
+  letter-spacing: 0.02em;
 }
 
 .section-item-title {
@@ -48,10 +49,12 @@ button {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .section-item-text {
   text-transform: none;
+  letter-spacing: 0.02em;
 }
 
 /* ====================== header-styles ================ */
@@ -98,6 +101,7 @@ button {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
+  letter-spacing: 0.02em;
 }
 
 .hero-button {
